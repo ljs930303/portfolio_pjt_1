@@ -7,6 +7,6 @@ The data can be filtered by region and size of apartment (square meter) and show
 # Process
 
 1. Download raw excel data and save the files locally
-2. Convert the files into CSV ("Raw data" files in this repository) so that they can be processed with Pandas
+2. Convert the files into CSV ("raw_data" files in this repository) so that they can be processed with Pandas
 3. Data cleaning and analysis conducted with Python
 4. More detailed analysis conducted with Power BI
